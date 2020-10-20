@@ -1,18 +1,18 @@
 # Barber Studio
 #Tools 
-Here I used
+##Here I used
 
-Html5
-CSS
-Flexbox
-JavaScript 
+*Html5
+*CSS
+*Flexbox
+*JavaScript 
 
-Design Feature
+#Design Feature
 
-Banner
-Side navber with hide and show.
-Our Feature
-Our Service with nice hover effect
-Testimonial
-Contact Us
-and footer option with noce hover social icon 
+*Banner
+*Side navber with hide and show.
+*Our Feature
+*Our Service with nice hover effect
+*Testimonial
+*Contact Us
+*and footer option with noce hover social icon 
